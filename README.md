@@ -20,4 +20,5 @@ SERP robot is based on Cortex M3 microcontroller.
 
 4 DC motors each of 300rpm. 
 
-
+Multiple SERPs can be coordinated together to perform tasks ,the communication can be performed using the onboard bluetooth module.
+A wide range of robots can be built such as Bluetooth controlled RC car, Obstacle Avoider, Line Follower, Gesture Controller Robot, Maze solver etc. 
