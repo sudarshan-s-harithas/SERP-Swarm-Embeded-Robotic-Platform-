@@ -24,4 +24,4 @@ Multiple SERPs can be coordinated together to perform tasks ,the communication c
 A wide range of robots can be built such as Bluetooth controlled RC car, Obstacle Avoider, Line Follower, Gesture Controller Robot, Maze solver etc. 
 
 
-Here Bluettoth controller RC car and obstacle avoider robots have been built using SERP for demonstration purpose.  
+Here Bluetooth controller RC car and obstacle avoider robots have been built using SERP for demonstration purpose.  
