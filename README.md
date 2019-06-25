@@ -16,7 +16,7 @@ SERP robot is based on Cortex M3 microcontroller.
 6. Indicator LEDs
 7. USB port available to upload the code and used for serial communication.  
 
-**Locomotion
+**Locomotion**
 
 4 DC motors each of 300rpm. 
 
