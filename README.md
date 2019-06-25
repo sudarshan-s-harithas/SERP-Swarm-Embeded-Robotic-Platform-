@@ -11,10 +11,10 @@ SERP robot is based on Cortex M3 microcontroller.
 1. The STM32 Blue Pill development board has been used
 2. Robot is powered by 8 cell 12V 2A rechargeable NiMH (Nickel Metal Hydride) batteries.
 3. It has an IR sensor array consisting of 7 IR sensors 
--Ultrasound sensor which can be used for the purpose of obstacle avoidance and distance measurement
--HC05 Bluetooth module has been interfaced to STM32 
--Indicator LEDs
--USB port available to upload the code and used for serial communication.  
+4. Ultrasound sensor which can be used for the purpose of obstacle avoidance and distance measurement
+5. HC05 Bluetooth module has been interfaced to STM32 
+6. Indicator LEDs
+7. USB port available to upload the code and used for serial communication.  
 
 **Locomotion: **
 
